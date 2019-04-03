@@ -1,9 +1,20 @@
 h1 {
-    color: blue;
-    font: arial;
-    font-size-adjust: 30;
-  }
+    color: navy;
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 40px;
+}
   
+p {
+    display: block;
+    font-family: sans-serif;
+    font-style: normal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
   .purple {
     color: purple;
   }
