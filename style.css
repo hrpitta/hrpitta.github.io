@@ -17,11 +17,16 @@ p {
 
 li {
     display: list-item;
-    text-align: -webkit-match-parent;
     display: block;
     font-family: sans-serif;
     font-style: normal;
 }
+table {
+    display: block;
+    font-family: sans-serif;
+    font-style: normal;
+}
+
 
   .purple {
     color: purple;
