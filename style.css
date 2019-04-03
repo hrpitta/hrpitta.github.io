@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+    font: arial;
+    font-size-adjust: 30;
+  }
+  
+  .purple {
+    color: purple;
+  }
+  
+  #red {
+    color: red;
+  }
+  
+  #big-font {
+    font-size: 40px;
+  }
+  
+  #bold-font {
+    font-weight: bold;
+  }
+  
+  .back-black {
+    background-color: #000;
+  }
+  
+  .small-font {
+    font-size: 10px;
+  }
